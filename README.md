@@ -1,2 +1,2 @@
 # Tindog website
-A match-finder website for your dog using HTML, CSS, Bootstrap. 
+A dog-match finder website for your dashing dog using HTML, CSS, Bootstrap. 
